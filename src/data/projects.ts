@@ -14,8 +14,8 @@ export const projects: Project[] = [
     description:
       "Full-stack real-time AI chat application built with React, TypeScript, Node.js, Express, and MongoDB. Supports password and email OTP authentication, signup email verification, Socket.IO messaging and presence, typing indicators, notifications, multi-device online status, message starring and deletion, user blocking, AWS S3 pre-signed image uploads, and streamed Gemini AI responses.",
     technologies: ["Socket.IO", "AWS S3", "Gemini AI"],
-    githubUrl: null,
-    liveUrl: null,
+    githubUrl: "https://github.com/Priyanshu174/PulseChat",
+    liveUrl: "https://pulse-chat-rust.vercel.app/",
     image: "/images/projects/PulseChat.png",
   },
   {
