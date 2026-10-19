@@ -2,6 +2,10 @@
 
 Personal portfolio showcasing my experience, projects, technical skills, certifications, and resume.
 
+## Live portfolio
+
+Visit the deployed website: [priyanshu-java-dev-portfolio.vercel.app](https://priyanshu-java-dev-portfolio.vercel.app/)
+
 ## About me
 
 I'm a Software Engineer focused on Java, Spring Boot, REST APIs, and full-stack development. I have experience building enterprise application features, integrations, and web applications.
