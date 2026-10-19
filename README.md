@@ -1,29 +1,48 @@
-# Welcome to your Lovable project
+# Priyanshu Sharma — Software Engineer Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+Personal portfolio showcasing my experience, projects, technical skills, certifications, and resume.
 
-## Build with Lovable
+## About me
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+I'm a Software Engineer focused on Java, Spring Boot, REST APIs, and full-stack development. I have experience building enterprise application features, integrations, and web applications.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## Portfolio highlights
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+- Professional experience with Planview and Sciforma
+- Projects spanning Java, React, Node.js, real-time chat, and AI-assisted features
+- Technical skills and certifications
+- Resume and contact links
 
 ## Built with
 
-- TanStack Start
-- TypeScript
-- React
+- React and TypeScript
+- TanStack Start and TanStack Router
 - Tailwind CSS
+- Vite and Nitro
+
+## Run locally
+
+Requirements: Node.js and npm.
+
+```bash
+git clone https://github.com/Priyanshu174/priyanshu-java-dev-portfolio.git
+cd priyanshu-java-dev-portfolio
+npm install
+npm run dev
+```
+
+The development server will print its local URL when it starts.
+
+## Build
+
+```bash
+npm run build
+```
+
+The project is configured for Vercel deployment. Import this repository into Vercel and use `npm run build` as the build command.
+
+## Contact
+
+- GitHub: [Priyanshu174](https://github.com/Priyanshu174)
+- LinkedIn: [Priyanshu Sharma](https://www.linkedin.com/in/priyanshu-sharma-890b39219/)
+- Email: [priyanshu174sharma@gmail.com](mailto:priyanshu174sharma@gmail.com)
